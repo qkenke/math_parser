@@ -29,13 +29,21 @@ It supports mathematical expressions and variable assignments directly from user
 ## 🧠 Example Usage
 
 x = 2 + 3
+
 x = 5.0
+
 y = x * 10
+
 y = 50.0
+
 y + 100
+
 150.0
+
 -x
+
 -5.0
+
 exit
 
 ## 🧱 Project Structure
