@@ -40,10 +40,6 @@ y + 100
 
 150.0
 
--x
-
--5.0
-
 exit
 
 ## 🧱 Project Structure
